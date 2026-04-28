@@ -1,6 +1,9 @@
- Procurement Data Analysis (EDA)
+Procurement Data Analysis (EDA)
+ 
+Created as part of Data Analytics project.
 
- Project Overview
+Project Overview
+
 This project performs Exploratory Data Analysis (EDA) on procurement data to understand spending patterns across departments, vendors, and geographic areas.
 
 🔍 Key Analysis
